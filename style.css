@@ -14,7 +14,7 @@ body {
   line-height: 30px;
 }
 ul {
-  line-height: 0;
+  line-height: 10px;
   border-right: #6E6E6E 3px solid;
   width: 200px;
   margin: 0;
